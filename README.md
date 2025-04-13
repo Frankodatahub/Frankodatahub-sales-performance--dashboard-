@@ -55,6 +55,6 @@ This project is part of my learning journey into data analytics and portfolio bu
 ## 📬 Contact
 
 - **Frank O.**  
-- [LinkedIn Profile](https://www.linkedin.com/in/ Odimba Frank/)  
+- [LinkedIn Profile]( https://www.linkedin.com/in/frank-ugo-odimba-210aa4194/)  
 - GitHub: [@Frankodatahub](https://github.com/Frankodatahub)
 
